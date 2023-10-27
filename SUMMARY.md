@@ -1,3 +1,15 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Git & GitFlow Comprehensive Tutorial](README.md)
+* [1. What is Version Control?](1.-what-is-version-control.md)
+* [2. Getting Started with Git](2.-getting-started-with-git.md)
+* [3. Basic Git Commands](3.-basic-git-commands.md)
+* [4. Branching and Merging](4.-branching-and-merging.md)
+* [5. Remote Repositories](5.-remote-repositories.md)
+* [6. Advanced Git Topics](6.-advanced-git-topics.md)
+* [7. Introduction to GitFlow](7.-introduction-to-gitflow.md)
+* [8. GitFlow: Key Branches](8.-gitflow-key-branches.md)
+* [9. Practical Example: Using GitFlow](9.-practical-example-using-gitflow.md)
+* [10. Best Practices](10.-best-practices.md)
+* [11. Common Issues and Troubleshooting](11.-common-issues-and-troubleshooting.md)
+* [12.Conclusion and Further Resources](12.conclusion-and-further-resources.md)
