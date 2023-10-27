@@ -25,7 +25,7 @@ Welcome to the Git & GitFlow Comprehensive Tutorial repository! This tutorial ai
 
 ### Contributing
 
-Feedback and contributions are welcome! If you have suggestions, issues, or want to improve the content, please open an issue or submit a pull request.
+Feedback and contributions are welcome! If you have suggestions, issues, or want to improve the content, please [open an issue](https://github.com/techbend/git-tutorial/issues) or submit a pull request.
 
 ### License
 
