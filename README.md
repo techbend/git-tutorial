@@ -4,7 +4,7 @@ Welcome to the Git & GitFlow Comprehensive Tutorial repository! This tutorial ai
 
 ### Table of Contents
 
-1. [Introduction to Version Control](./#license)
+1. [Introduction to Version Control](1.-what-is-version-control.md)
 2. [Getting Started with Git](2.-getting-started-with-git.md)
 3. [Basic Git Commands](3.-basic-git-commands.md)
 4. [Branching and Merging](3.-basic-git-commands.md)
@@ -29,7 +29,7 @@ Feedback and contributions are welcome! If you have suggestions, issues, or want
 
 ### License
 
-This project is licensed under the CC0 1.0 Universal. See the LICENSE.md file for details.
+This project is licensed under the CC0 1.0 Universal. See the [LICENSE](https://github.com/techbend/git-tutorial/blob/main/LICENSE) file for more details.
 
 ### Further Resources
 
